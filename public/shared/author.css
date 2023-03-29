@@ -1,0 +1,10 @@
+.author-row{
+    justify-content: space-between;
+    align-items: center;
+    margin: 1rem 0;
+}
+.author-name{
+    font-size: 1.5rem;
+    font-weight: 600;
+    color: var(--color-text);
+}
